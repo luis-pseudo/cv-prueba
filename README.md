@@ -9,4 +9,4 @@ curriculum hecho en html
 ## codigo
 este es el codigo que realizamos en la clase 6
 
-![Vista previa](https://drive.google.com/file/d/1WJRdgKtkx1EO3wqHTewcQhRLWha02mJz/view?usp=sharing)
+![Vista previa](https://i.imgur.com/CDxUNYP.png)
